@@ -1,3 +1,8 @@
 /**
  * Custom font declarations.
  */
+
+@font-face {
+	font-family: "Noto Sans Thai";
+	src: url("../theme/fonts/NotoSansThaiVariable.ttf") format("truetype-variations");
+}
