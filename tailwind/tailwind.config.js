@@ -18,6 +18,7 @@ module.exports = {
 			'editor-post-title__input',
 		],
 	},
+	darkMode: false, // or 'media' or 'class'
 	theme: {
 		// Extend the default theme.
 		extend: {
